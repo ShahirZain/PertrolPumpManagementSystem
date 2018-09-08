@@ -1,0 +1,46 @@
+D:\visual studio 2015\Projects\Petro_F\Petro_F\bin\Debug\Petro_F.exe.config
+D:\visual studio 2015\Projects\Petro_F\Petro_F\bin\Debug\Petro_F.exe
+D:\visual studio 2015\Projects\Petro_F\Petro_F\bin\Debug\Petro_F.pdb
+D:\visual studio 2015\Projects\Petro_F\Petro_F\obj\Debug\Petro_F.csprojResolveAssemblyReference.cache
+D:\visual studio 2015\Projects\Petro_F\Petro_F\obj\Debug\Petro_F.Form1.resources
+D:\visual studio 2015\Projects\Petro_F\Petro_F\obj\Debug\Petro_F.Form2.resources
+D:\visual studio 2015\Projects\Petro_F\Petro_F\obj\Debug\Petro_F.Form3.resources
+D:\visual studio 2015\Projects\Petro_F\Petro_F\obj\Debug\Petro_F.Properties.Resources.resources
+D:\visual studio 2015\Projects\Petro_F\Petro_F\obj\Debug\Petro_F.csproj.GenerateResource.Cache
+D:\visual studio 2015\Projects\Petro_F\Petro_F\obj\Debug\Petro_F.exe
+D:\visual studio 2015\Projects\Petro_F\Petro_F\obj\Debug\Petro_F.pdb
+D:\visual studio 2015\Projects\Petro_F\Petro_F\obj\Debug\Petro_F.Form4.resources
+D:\visual studio 2015\Projects\Petro_F\Petro_F\obj\Debug\Petro_F.Form5.resources
+D:\visual studio 2015\Projects\Petro_F\Petro_F\obj\Debug\Petro_F.Form6.resources
+D:\visual studio 2015\Projects\Petro_F\Petro_F\obj\Debug\Petro_F.Form7.resources
+D:\visual studio 2015\Projects\Petro_F\Petro_F\obj\Debug\Petro_F.Form8.resources
+D:\visual studio 2015\Projects\Petro_F\Petro_F\obj\Debug\Petro_F.Form9.resources
+D:\visual studio 2015\Projects\Petro_F\Petro_F\obj\Debug\Petro_F.Form10.resources
+D:\visual studio 2015\Projects\Petro_F\Petro_F\obj\Debug\Petro_F.Form11.resources
+D:\visual studio 2015\Projects\Petro_F\Petro_F\obj\Debug\Petro_F.Form12.resources
+C:\Users\UMAR COMPUTER\Desktop\Pso\Petro_F\Petro_F\bin\Debug\Petro_F.exe.config
+C:\Users\UMAR COMPUTER\Desktop\Pso\Petro_F\Petro_F\bin\Debug\Petro_F.exe
+C:\Users\UMAR COMPUTER\Desktop\Pso\Petro_F\Petro_F\bin\Debug\Petro_F.pdb
+C:\Users\UMAR COMPUTER\Desktop\Pso\Petro_F\Petro_F\obj\Debug\Petro_F.csprojAssemblyReference.cache
+C:\Users\UMAR COMPUTER\Desktop\Pso\Petro_F\Petro_F\obj\Debug\Petro_F.Form1.resources
+C:\Users\UMAR COMPUTER\Desktop\Pso\Petro_F\Petro_F\obj\Debug\Petro_F.Form10.resources
+C:\Users\UMAR COMPUTER\Desktop\Pso\Petro_F\Petro_F\obj\Debug\Petro_F.Form11.resources
+C:\Users\UMAR COMPUTER\Desktop\Pso\Petro_F\Petro_F\obj\Debug\Petro_F.Form12.resources
+C:\Users\UMAR COMPUTER\Desktop\Pso\Petro_F\Petro_F\obj\Debug\Petro_F.Form13.resources
+C:\Users\UMAR COMPUTER\Desktop\Pso\Petro_F\Petro_F\obj\Debug\Petro_F.Form2.resources
+C:\Users\UMAR COMPUTER\Desktop\Pso\Petro_F\Petro_F\obj\Debug\Petro_F.Form3.resources
+C:\Users\UMAR COMPUTER\Desktop\Pso\Petro_F\Petro_F\obj\Debug\Petro_F.Form4.resources
+C:\Users\UMAR COMPUTER\Desktop\Pso\Petro_F\Petro_F\obj\Debug\Petro_F.Form5.resources
+C:\Users\UMAR COMPUTER\Desktop\Pso\Petro_F\Petro_F\obj\Debug\Petro_F.Form6.resources
+C:\Users\UMAR COMPUTER\Desktop\Pso\Petro_F\Petro_F\obj\Debug\Petro_F.Form7.resources
+C:\Users\UMAR COMPUTER\Desktop\Pso\Petro_F\Petro_F\obj\Debug\Petro_F.Form8.resources
+C:\Users\UMAR COMPUTER\Desktop\Pso\Petro_F\Petro_F\obj\Debug\Petro_F.Form9.resources
+C:\Users\UMAR COMPUTER\Desktop\Pso\Petro_F\Petro_F\obj\Debug\Petro_F.Properties.Resources.resources
+C:\Users\UMAR COMPUTER\Desktop\Pso\Petro_F\Petro_F\obj\Debug\Petro_F.csproj.GenerateResource.cache
+C:\Users\UMAR COMPUTER\Desktop\Pso\Petro_F\Petro_F\obj\Debug\Petro_F.csproj.CoreCompileInputs.cache
+C:\Users\UMAR COMPUTER\Desktop\Pso\Petro_F\Petro_F\obj\Debug\Petro_F.exe
+C:\Users\UMAR COMPUTER\Desktop\Pso\Petro_F\Petro_F\obj\Debug\Petro_F.pdb
+C:\Users\UMAR COMPUTER\Desktop\Pso\Petro_F\Petro_F\obj\Debug\Petro_F.Cashbook.resources
+C:\Users\UMAR COMPUTER\Desktop\Pso\Petro_F\Petro_F\bin\Debug\itextsharp.dll
+C:\Users\UMAR COMPUTER\Desktop\Pso\Petro_F\Petro_F\bin\Debug\itextsharp.xml
+C:\Users\UMAR COMPUTER\Desktop\Pso\Petro_F\Petro_F\obj\Debug\Petro_F.csproj.CopyComplete
